@@ -13,6 +13,16 @@ Directions:
  - Open two local machines
  - 1st machine: $python3 processA.py
  - 2nd machine: $python3 processB.py
+ 
+Files:
+ - parse.py
+    - Parses .stl file and outputs data to .csv
+ - processA.py
+    - Procress A
+ - processB.py
+    - Procress B
+ - ex-output-files
+    - example outputs
 
 Requirments:
  - Python 3
