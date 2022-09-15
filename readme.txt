@@ -1,6 +1,6 @@
 Synopsis:
  - Built two independent inter-communicating processes (A & B) able to
-   exchangedata using two different means of data transfer: 
+   exchange data using two different means of data transfer: 
    ZeroMQ and Python socket library.
 
  - Using ZeroMQ, Process A connects with B and sends contents of the 
